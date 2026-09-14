@@ -1,4 +1,4 @@
-#generated=2026-09-07
+#generated=2026-09-14
 line;headsign;seq;diva
 1;Bösendorferstraße/Karlsplatz;0;60200486
 1;Bösendorferstraße/Karlsplatz;1;60201497
@@ -570,6 +570,40 @@ line;headsign;seq;diva
 12;Bruno-Marek-Allee;17;60200578
 12;Bruno-Marek-Allee;18;60201079
 12;Bruno-Marek-Allee;19;60201919
+12;Dornbach;0;60200523
+12;Dornbach;1;60200620
+12;Dornbach;2;60201433
+12;Dornbach;3;60201962
+12;Dornbach;4;60201919
+12;Dornbach;5;60201079
+12;Dornbach;6;60200578
+12;Dornbach;7;60201385
+12;Dornbach;8;60200500
+12;Dornbach;9;60200569
+12;Dornbach;10;60201667
+12;Dornbach;11;60200170
+12;Dornbach;12;60201443
+12;Dornbach;13;60201444
+12;Dornbach;14;60200357
+12;Dornbach;15;60200345
+12;Dornbach;16;60200029
+12;Dornbach;17;60201288
+12;Dornbach;18;60200762
+12;Dornbach;19;60200747
+12;Dornbach;20;60200753
+12;Dornbach;21;60200333
+12;Dornbach;22;60200019
+12;Dornbach;23;60200148
+12;Dornbach;24;60200615
+12;Dornbach;25;60200173
+12;Dornbach;26;60200456
+12;Dornbach;27;60200602
+12;Dornbach;28;60200861
+12;Dornbach;29;60201490
+12;Dornbach;30;60201136
+12;Dornbach;31;60201121
+12;Dornbach;32;60200784
+12;Dornbach;33;60200450
 12;Hillerstraße;0;60200615
 12;Hillerstraße;1;60200019
 12;Hillerstraße;2;60200333
@@ -1161,30 +1195,29 @@ line;headsign;seq;diva
 18;St. Marx;14;60200400
 18;St. Marx;15;60201486
 18;St. Marx;16;60201425
-18;Stadion U/Handelskai;0;60200188
-18;Stadion U/Handelskai;1;60201413
-18;Stadion U/Handelskai;2;60201468
-18;Stadion U/Handelskai;3;60200833
-18;Stadion U/Handelskai;4;60200436
-18;Stadion U/Handelskai;5;60200827
-18;Stadion U/Handelskai;6;60200077
-18;Stadion U/Handelskai;7;60200267
-18;Stadion U/Handelskai;8;60200849
-18;Stadion U/Handelskai;9;60200689
-18;Stadion U/Handelskai;10;60200145
-18;Stadion U/Handelskai;11;60201349
-18;Stadion U/Handelskai;12;60201346
-18;Stadion U/Handelskai;13;60200300
-18;Stadion U/Handelskai;14;60200400
-18;Stadion U/Handelskai;15;60201486
-18;Stadion U/Handelskai;16;60201425
-18;Stadion U/Handelskai;17;60201148
-18;Stadion U/Handelskai;18;60200115
-18;Stadion U/Handelskai;19;60201199
-18;Stadion U/Handelskai;20;60200821
-18;Stadion U/Handelskai;21;60201296
-18;Stadion U/Handelskai;22;60201894
-18;Stadion U/Handelskai;23;60202502
+18;Stadion;0;60200188
+18;Stadion;1;60201413
+18;Stadion;2;60201468
+18;Stadion;3;60200833
+18;Stadion;4;60200436
+18;Stadion;5;60200827
+18;Stadion;6;60200077
+18;Stadion;7;60200267
+18;Stadion;8;60200849
+18;Stadion;9;60200689
+18;Stadion;10;60200145
+18;Stadion;11;60201349
+18;Stadion;12;60201346
+18;Stadion;13;60200300
+18;Stadion;14;60200400
+18;Stadion;15;60201486
+18;Stadion;16;60201425
+18;Stadion;17;60201148
+18;Stadion;18;60200115
+18;Stadion;19;60201199
+18;Stadion;20;60200821
+18;Stadion;21;60201296
+18;Stadion;22;60201894
 18;Winckelmannstraße;0;60201199
 18;Winckelmannstraße;1;60200821
 18;Winckelmannstraße;2;60201199
@@ -1323,6 +1356,23 @@ line;headsign;seq;diva
 2;Josefstädter Straße;7;60200456
 2;Josefstädter Straße;8;60200173
 2;Josefstädter Straße;9;60200615
+2;Karlsplatz;0;60200363
+2;Karlsplatz;1;60200569
+2;Karlsplatz;2;60200500
+2;Karlsplatz;3;60201385
+2;Karlsplatz;4;60200578
+2;Karlsplatz;5;60201079
+2;Karlsplatz;6;60200051
+2;Karlsplatz;7;60200494
+2;Karlsplatz;8;60201891
+2;Karlsplatz;9;60200659
+2;Karlsplatz;10;60200838
+2;Karlsplatz;11;60201198
+2;Karlsplatz;12;60200619
+2;Karlsplatz;13;60200245
+2;Karlsplatz;14;60201460
+2;Karlsplatz;15;60201193
+2;Karlsplatz;16;60200657
 2;Parlament/Volkstheater;0;60200450
 2;Parlament/Volkstheater;1;60200784
 2;Parlament/Volkstheater;2;60201121
@@ -1513,23 +1563,22 @@ line;headsign;seq;diva
 25;Aspern, Oberdorfstraße;0;60200334
 25;Aspern, Oberdorfstraße;1;60200551
 25;Aspern, Oberdorfstraße;2;60200369
-25;Aspern, Oberdorfstraße;3;60200021
-25;Aspern, Oberdorfstraße;4;60200607
-25;Aspern, Oberdorfstraße;5;60201735
-25;Aspern, Oberdorfstraße;6;60200627
-25;Aspern, Oberdorfstraße;7;60200238
-25;Aspern, Oberdorfstraße;8;60200631
-25;Aspern, Oberdorfstraße;9;60200081
-25;Aspern, Oberdorfstraße;10;60200236
-25;Aspern, Oberdorfstraße;11;60201031
-25;Aspern, Oberdorfstraße;12;60200288
-25;Aspern, Oberdorfstraße;13;60200701
-25;Aspern, Oberdorfstraße;14;60200749
-25;Aspern, Oberdorfstraße;15;60200473
-25;Aspern, Oberdorfstraße;16;60201278
-25;Aspern, Oberdorfstraße;17;60200778
-25;Aspern, Oberdorfstraße;18;60201630
-25;Aspern, Oberdorfstraße;19;60201631
+25;Aspern, Oberdorfstraße;3;60200607
+25;Aspern, Oberdorfstraße;4;60201735
+25;Aspern, Oberdorfstraße;5;60200627
+25;Aspern, Oberdorfstraße;6;60200238
+25;Aspern, Oberdorfstraße;7;60200631
+25;Aspern, Oberdorfstraße;8;60200081
+25;Aspern, Oberdorfstraße;9;60200236
+25;Aspern, Oberdorfstraße;10;60201031
+25;Aspern, Oberdorfstraße;11;60200288
+25;Aspern, Oberdorfstraße;12;60200701
+25;Aspern, Oberdorfstraße;13;60200749
+25;Aspern, Oberdorfstraße;14;60200473
+25;Aspern, Oberdorfstraße;15;60201278
+25;Aspern, Oberdorfstraße;16;60200778
+25;Aspern, Oberdorfstraße;17;60201630
+25;Aspern, Oberdorfstraße;18;60201631
 25;Floridsdorf;0;60201631
 25;Floridsdorf;1;60201630
 25;Floridsdorf;2;60200778
@@ -1546,10 +1595,9 @@ line;headsign;seq;diva
 25;Floridsdorf;13;60200627
 25;Floridsdorf;14;60201735
 25;Floridsdorf;15;60200607
-25;Floridsdorf;16;60200021
-25;Floridsdorf;17;60200369
-25;Floridsdorf;18;60200551
-25;Floridsdorf;19;60200334
+25;Floridsdorf;16;60200369
+25;Floridsdorf;17;60200551
+25;Floridsdorf;18;60200334
 25;Kagran;0;60201631
 25;Kagran;1;60201630
 25;Kagran;2;60200778
@@ -1642,23 +1690,22 @@ line;headsign;seq;diva
 26;Aspern, Oberdorfstraße;0;60200334
 26;Aspern, Oberdorfstraße;1;60200551
 26;Aspern, Oberdorfstraße;2;60200369
-26;Aspern, Oberdorfstraße;3;60200021
-26;Aspern, Oberdorfstraße;4;60200607
-26;Aspern, Oberdorfstraße;5;60201735
-26;Aspern, Oberdorfstraße;6;60200627
-26;Aspern, Oberdorfstraße;7;60200238
-26;Aspern, Oberdorfstraße;8;60200631
-26;Aspern, Oberdorfstraße;9;60200081
-26;Aspern, Oberdorfstraße;10;60200236
-26;Aspern, Oberdorfstraße;11;60201031
-26;Aspern, Oberdorfstraße;12;60200288
-26;Aspern, Oberdorfstraße;13;60200701
-26;Aspern, Oberdorfstraße;14;60200749
-26;Aspern, Oberdorfstraße;15;60200473
-26;Aspern, Oberdorfstraße;16;60201278
-26;Aspern, Oberdorfstraße;17;60200778
-26;Aspern, Oberdorfstraße;18;60201630
-26;Aspern, Oberdorfstraße;19;60201631
+26;Aspern, Oberdorfstraße;3;60200607
+26;Aspern, Oberdorfstraße;4;60201735
+26;Aspern, Oberdorfstraße;5;60200627
+26;Aspern, Oberdorfstraße;6;60200238
+26;Aspern, Oberdorfstraße;7;60200631
+26;Aspern, Oberdorfstraße;8;60200081
+26;Aspern, Oberdorfstraße;9;60200236
+26;Aspern, Oberdorfstraße;10;60201031
+26;Aspern, Oberdorfstraße;11;60200288
+26;Aspern, Oberdorfstraße;12;60200701
+26;Aspern, Oberdorfstraße;13;60200749
+26;Aspern, Oberdorfstraße;14;60200473
+26;Aspern, Oberdorfstraße;15;60201278
+26;Aspern, Oberdorfstraße;16;60200778
+26;Aspern, Oberdorfstraße;17;60201630
+26;Aspern, Oberdorfstraße;18;60201631
 26;Floridsdorf;0;60200487
 26;Floridsdorf;1;60200039
 26;Floridsdorf;2;60200038
@@ -1672,10 +1719,9 @@ line;headsign;seq;diva
 26;Floridsdorf;10;60200633
 26;Floridsdorf;11;60201141
 26;Floridsdorf;12;60200607
-26;Floridsdorf;13;60200021
-26;Floridsdorf;14;60200369
-26;Floridsdorf;15;60200551
-26;Floridsdorf;16;60200334
+26;Floridsdorf;13;60200369
+26;Floridsdorf;14;60200551
+26;Floridsdorf;15;60200334
 26;Floridsdorfer Markt;0;60200334
 26;Floridsdorfer Markt;1;60201186
 26;Hausfeldstraße;0;60200260
@@ -1689,20 +1735,19 @@ line;headsign;seq;diva
 26;Hausfeldstraße;8;60200334
 26;Hausfeldstraße;9;60200551
 26;Hausfeldstraße;10;60200369
-26;Hausfeldstraße;11;60200021
-26;Hausfeldstraße;12;60200607
-26;Hausfeldstraße;13;60201141
-26;Hausfeldstraße;14;60200633
-26;Hausfeldstraße;15;60200716
-26;Hausfeldstraße;16;60200938
-26;Hausfeldstraße;17;60201786
-26;Hausfeldstraße;18;60201595
-26;Hausfeldstraße;19;60200966
-26;Hausfeldstraße;20;60200965
-26;Hausfeldstraße;21;60201048
-26;Hausfeldstraße;22;60200038
-26;Hausfeldstraße;23;60200039
-26;Hausfeldstraße;24;60200487
+26;Hausfeldstraße;11;60200607
+26;Hausfeldstraße;12;60201141
+26;Hausfeldstraße;13;60200633
+26;Hausfeldstraße;14;60200716
+26;Hausfeldstraße;15;60200938
+26;Hausfeldstraße;16;60201786
+26;Hausfeldstraße;17;60201595
+26;Hausfeldstraße;18;60200966
+26;Hausfeldstraße;19;60200965
+26;Hausfeldstraße;20;60201048
+26;Hausfeldstraße;21;60200038
+26;Hausfeldstraße;22;60200039
+26;Hausfeldstraße;23;60200487
 26;Kagran;0;60200487
 26;Kagran;1;60200039
 26;Kagran;2;60200038
@@ -1738,18 +1783,17 @@ line;headsign;seq;diva
 26;Strebersdorf Meriangasse;10;60200633
 26;Strebersdorf Meriangasse;11;60201141
 26;Strebersdorf Meriangasse;12;60200607
-26;Strebersdorf Meriangasse;13;60200021
-26;Strebersdorf Meriangasse;14;60200369
-26;Strebersdorf Meriangasse;15;60200551
-26;Strebersdorf Meriangasse;16;60200334
-26;Strebersdorf Meriangasse;17;60200050
-26;Strebersdorf Meriangasse;18;60200943
-26;Strebersdorf Meriangasse;19;60200699
-26;Strebersdorf Meriangasse;20;60200548
-26;Strebersdorf Meriangasse;21;60201495
-26;Strebersdorf Meriangasse;22;60200102
-26;Strebersdorf Meriangasse;23;60201135
-26;Strebersdorf Meriangasse;24;60200260
+26;Strebersdorf Meriangasse;13;60200369
+26;Strebersdorf Meriangasse;14;60200551
+26;Strebersdorf Meriangasse;15;60200334
+26;Strebersdorf Meriangasse;16;60200050
+26;Strebersdorf Meriangasse;17;60200943
+26;Strebersdorf Meriangasse;18;60200699
+26;Strebersdorf Meriangasse;19;60200548
+26;Strebersdorf Meriangasse;20;60201495
+26;Strebersdorf Meriangasse;21;60200102
+26;Strebersdorf Meriangasse;22;60201135
+26;Strebersdorf Meriangasse;23;60200260
 26A;Groß-Enzersdorf Busbahnhof;0;60200627
 26A;Groß-Enzersdorf Busbahnhof;1;60200238
 26A;Groß-Enzersdorf Busbahnhof;2;60200568
@@ -1795,6 +1839,14 @@ line;headsign;seq;diva
 26A;Kagran;20;60200134
 26A;Kagran;21;60200238
 26A;Kagran;22;60200627
+26E;Floridsdorf;0;60200607
+26E;Floridsdorf;1;60200369
+26E;Floridsdorf;2;60200551
+26E;Floridsdorf;3;60200334
+26E;Josef-Baumann-Gasse;0;60200334
+26E;Josef-Baumann-Gasse;1;60200551
+26E;Josef-Baumann-Gasse;2;60200369
+26E;Josef-Baumann-Gasse;3;60200607
 27;Aspern Nord;0;60200260
 27;Aspern Nord;1;60201135
 27;Aspern Nord;2;60200102
@@ -1806,22 +1858,21 @@ line;headsign;seq;diva
 27;Aspern Nord;8;60200334
 27;Aspern Nord;9;60200551
 27;Aspern Nord;10;60200369
-27;Aspern Nord;11;60200021
-27;Aspern Nord;12;60200607
-27;Aspern Nord;13;60201141
-27;Aspern Nord;14;60200633
-27;Aspern Nord;15;60200716
-27;Aspern Nord;16;60200938
-27;Aspern Nord;17;60201786
-27;Aspern Nord;18;60201595
-27;Aspern Nord;19;60200966
-27;Aspern Nord;20;60200965
-27;Aspern Nord;21;60201048
-27;Aspern Nord;22;60201922
-27;Aspern Nord;23;60200596
-27;Aspern Nord;24;60201963
-27;Aspern Nord;25;60201964
-27;Aspern Nord;26;60200910
+27;Aspern Nord;11;60200607
+27;Aspern Nord;12;60201141
+27;Aspern Nord;13;60200633
+27;Aspern Nord;14;60200716
+27;Aspern Nord;15;60200938
+27;Aspern Nord;16;60201786
+27;Aspern Nord;17;60201595
+27;Aspern Nord;18;60200966
+27;Aspern Nord;19;60200965
+27;Aspern Nord;20;60201048
+27;Aspern Nord;21;60201922
+27;Aspern Nord;22;60200596
+27;Aspern Nord;23;60201963
+27;Aspern Nord;24;60201964
+27;Aspern Nord;25;60200910
 27;Floridsdorf;0;60200260
 27;Floridsdorf;1;60201135
 27;Floridsdorf;2;60200102
@@ -1872,18 +1923,17 @@ line;headsign;seq;diva
 27;Strebersdorf Meriangasse;12;60200633
 27;Strebersdorf Meriangasse;13;60201141
 27;Strebersdorf Meriangasse;14;60200607
-27;Strebersdorf Meriangasse;15;60200021
-27;Strebersdorf Meriangasse;16;60200369
-27;Strebersdorf Meriangasse;17;60200551
-27;Strebersdorf Meriangasse;18;60200334
-27;Strebersdorf Meriangasse;19;60200050
-27;Strebersdorf Meriangasse;20;60200943
-27;Strebersdorf Meriangasse;21;60200699
-27;Strebersdorf Meriangasse;22;60200548
-27;Strebersdorf Meriangasse;23;60201495
-27;Strebersdorf Meriangasse;24;60200102
-27;Strebersdorf Meriangasse;25;60201135
-27;Strebersdorf Meriangasse;26;60200260
+27;Strebersdorf Meriangasse;15;60200369
+27;Strebersdorf Meriangasse;16;60200551
+27;Strebersdorf Meriangasse;17;60200334
+27;Strebersdorf Meriangasse;18;60200050
+27;Strebersdorf Meriangasse;19;60200943
+27;Strebersdorf Meriangasse;20;60200699
+27;Strebersdorf Meriangasse;21;60200548
+27;Strebersdorf Meriangasse;22;60201495
+27;Strebersdorf Meriangasse;23;60200102
+27;Strebersdorf Meriangasse;24;60201135
+27;Strebersdorf Meriangasse;25;60200260
 27A;Hermann-Gebauer-Straße;0;60200627
 27A;Hermann-Gebauer-Straße;1;60200984
 27A;Hermann-Gebauer-Straße;2;60201141
@@ -2488,6 +2538,24 @@ line;headsign;seq;diva
 34A;Strebersdorf;16;60201429
 34A;Strebersdorf;17;60201567
 34A;Strebersdorf;18;60201333
+35A;Nußdorfer Straße;0;60201142
+35A;Nußdorfer Straße;1;60200206
+35A;Nußdorfer Straße;2;60200931
+35A;Nußdorfer Straße;3;60200010
+35A;Nußdorfer Straße;4;60200687
+35A;Nußdorfer Straße;5;60201336
+35A;Nußdorfer Straße;6;60200648
+35A;Nußdorfer Straße;7;60200404
+35A;Nußdorfer Straße;8;60200443
+35A;Nußdorfer Straße;9;60200714
+35A;Nußdorfer Straße;10;60201108
+35A;Nußdorfer Straße;11;60200336
+35A;Nußdorfer Straße;12;60200723
+35A;Nußdorfer Straße;13;60200972
+35A;Nußdorfer Straße;14;60200376
+35A;Nußdorfer Straße;15;60200474
+35A;Nußdorfer Straße;16;60200405
+35A;Nußdorfer Straße;17;60200950
 35A;Salmannsdorf;0;60201062
 35A;Salmannsdorf;1;60200950
 35A;Salmannsdorf;2;60201462
@@ -5575,6 +5643,25 @@ line;headsign;seq;diva
 71;St. Marx;4;60200688
 71;St. Marx;5;60200461
 71;St. Marx;6;60201425
+71;Zentralfriedhof 3.Tor;0;60201193
+71;Zentralfriedhof 3.Tor;1;60201795
+71;Zentralfriedhof 3.Tor;2;60201407
+71;Zentralfriedhof 3.Tor;3;60201091
+71;Zentralfriedhof 3.Tor;4;60200688
+71;Zentralfriedhof 3.Tor;5;60200461
+71;Zentralfriedhof 3.Tor;6;60201425
+71;Zentralfriedhof 3.Tor;7;60200805
+71;Zentralfriedhof 3.Tor;8;60200885
+71;Zentralfriedhof 3.Tor;9;60200399
+71;Zentralfriedhof 3.Tor;10;60200702
+71;Zentralfriedhof 3.Tor;11;60200425
+71;Zentralfriedhof 3.Tor;12;60200160
+71;Zentralfriedhof 3.Tor;13;60201260
+71;Zentralfriedhof 3.Tor;14;60200314
+71;Zentralfriedhof 3.Tor;15;60201463
+71;Zentralfriedhof 3.Tor;16;60201520
+71;Zentralfriedhof 3.Tor;17;60201521
+71;Zentralfriedhof 3.Tor;18;60201522
 71A;Schwechat Bahnhof;0;60201522
 71A;Schwechat Bahnhof;1;60201523
 71A;Schwechat Bahnhof;2;60201699
@@ -7284,30 +7371,29 @@ N20;Eßling Schule;7;60200050
 N20;Eßling Schule;8;60200334
 N20;Eßling Schule;9;60200551
 N20;Eßling Schule;10;60200369
-N20;Eßling Schule;11;60200021
-N20;Eßling Schule;12;60200607
-N20;Eßling Schule;13;60201141
-N20;Eßling Schule;14;60200633
-N20;Eßling Schule;15;60201313
-N20;Eßling Schule;16;60200627
-N20;Eßling Schule;17;60200238
-N20;Eßling Schule;18;60200568
-N20;Eßling Schule;19;60200236
-N20;Eßling Schule;20;60201031
-N20;Eßling Schule;21;60200288
-N20;Eßling Schule;22;60200701
-N20;Eßling Schule;23;60200749
-N20;Eßling Schule;24;60200473
-N20;Eßling Schule;25;60201278
-N20;Eßling Schule;26;60200778
-N20;Eßling Schule;27;60201631
-N20;Eßling Schule;28;60201247
-N20;Eßling Schule;29;60200811
-N20;Eßling Schule;30;60201143
-N20;Eßling Schule;31;60200337
-N20;Eßling Schule;32;60200751
-N20;Eßling Schule;33;60200682
-N20;Eßling Schule;34;60200297
+N20;Eßling Schule;11;60200607
+N20;Eßling Schule;12;60201141
+N20;Eßling Schule;13;60200633
+N20;Eßling Schule;14;60201313
+N20;Eßling Schule;15;60200627
+N20;Eßling Schule;16;60200238
+N20;Eßling Schule;17;60200568
+N20;Eßling Schule;18;60200236
+N20;Eßling Schule;19;60201031
+N20;Eßling Schule;20;60200288
+N20;Eßling Schule;21;60200701
+N20;Eßling Schule;22;60200749
+N20;Eßling Schule;23;60200473
+N20;Eßling Schule;24;60201278
+N20;Eßling Schule;25;60200778
+N20;Eßling Schule;26;60201631
+N20;Eßling Schule;27;60201247
+N20;Eßling Schule;28;60200811
+N20;Eßling Schule;29;60201143
+N20;Eßling Schule;30;60200337
+N20;Eßling Schule;31;60200751
+N20;Eßling Schule;32;60200682
+N20;Eßling Schule;33;60200297
 N20;Eßling, Stadtgrenze;0;60200260
 N20;Eßling, Stadtgrenze;1;60201135
 N20;Eßling, Stadtgrenze;2;60200102
@@ -7319,34 +7405,33 @@ N20;Eßling, Stadtgrenze;7;60200050
 N20;Eßling, Stadtgrenze;8;60200334
 N20;Eßling, Stadtgrenze;9;60200551
 N20;Eßling, Stadtgrenze;10;60200369
-N20;Eßling, Stadtgrenze;11;60200021
-N20;Eßling, Stadtgrenze;12;60200607
-N20;Eßling, Stadtgrenze;13;60201141
-N20;Eßling, Stadtgrenze;14;60200633
-N20;Eßling, Stadtgrenze;15;60201313
-N20;Eßling, Stadtgrenze;16;60200627
-N20;Eßling, Stadtgrenze;17;60200238
-N20;Eßling, Stadtgrenze;18;60200568
-N20;Eßling, Stadtgrenze;19;60200236
-N20;Eßling, Stadtgrenze;20;60201031
-N20;Eßling, Stadtgrenze;21;60200288
-N20;Eßling, Stadtgrenze;22;60200701
-N20;Eßling, Stadtgrenze;23;60200749
-N20;Eßling, Stadtgrenze;24;60200473
-N20;Eßling, Stadtgrenze;25;60201278
-N20;Eßling, Stadtgrenze;26;60200778
-N20;Eßling, Stadtgrenze;27;60201631
-N20;Eßling, Stadtgrenze;28;60201247
-N20;Eßling, Stadtgrenze;29;60200811
-N20;Eßling, Stadtgrenze;30;60201143
-N20;Eßling, Stadtgrenze;31;60200337
-N20;Eßling, Stadtgrenze;32;60200751
-N20;Eßling, Stadtgrenze;33;60200682
-N20;Eßling, Stadtgrenze;34;60200297
-N20;Eßling, Stadtgrenze;35;60201662
-N20;Eßling, Stadtgrenze;36;60201026
-N20;Eßling, Stadtgrenze;37;60200281
-N20;Eßling, Stadtgrenze;38;60200441
+N20;Eßling, Stadtgrenze;11;60200607
+N20;Eßling, Stadtgrenze;12;60201141
+N20;Eßling, Stadtgrenze;13;60200633
+N20;Eßling, Stadtgrenze;14;60201313
+N20;Eßling, Stadtgrenze;15;60200627
+N20;Eßling, Stadtgrenze;16;60200238
+N20;Eßling, Stadtgrenze;17;60200568
+N20;Eßling, Stadtgrenze;18;60200236
+N20;Eßling, Stadtgrenze;19;60201031
+N20;Eßling, Stadtgrenze;20;60200288
+N20;Eßling, Stadtgrenze;21;60200701
+N20;Eßling, Stadtgrenze;22;60200749
+N20;Eßling, Stadtgrenze;23;60200473
+N20;Eßling, Stadtgrenze;24;60201278
+N20;Eßling, Stadtgrenze;25;60200778
+N20;Eßling, Stadtgrenze;26;60201631
+N20;Eßling, Stadtgrenze;27;60201247
+N20;Eßling, Stadtgrenze;28;60200811
+N20;Eßling, Stadtgrenze;29;60201143
+N20;Eßling, Stadtgrenze;30;60200337
+N20;Eßling, Stadtgrenze;31;60200751
+N20;Eßling, Stadtgrenze;32;60200682
+N20;Eßling, Stadtgrenze;33;60200297
+N20;Eßling, Stadtgrenze;34;60201662
+N20;Eßling, Stadtgrenze;35;60201026
+N20;Eßling, Stadtgrenze;36;60200281
+N20;Eßling, Stadtgrenze;37;60200441
 N20;Kagran;0;60200260
 N20;Kagran;1;60201135
 N20;Kagran;2;60200102
@@ -7358,12 +7443,11 @@ N20;Kagran;7;60200050
 N20;Kagran;8;60200334
 N20;Kagran;9;60200551
 N20;Kagran;10;60200369
-N20;Kagran;11;60200021
-N20;Kagran;12;60200607
-N20;Kagran;13;60201141
-N20;Kagran;14;60200633
-N20;Kagran;15;60201313
-N20;Kagran;16;60200627
+N20;Kagran;11;60200607
+N20;Kagran;12;60201141
+N20;Kagran;13;60200633
+N20;Kagran;14;60201313
+N20;Kagran;15;60200627
 N20;Strebersdorf Meriangasse;0;60200441
 N20;Strebersdorf Meriangasse;1;60200281
 N20;Strebersdorf Meriangasse;2;60201026
@@ -7394,18 +7478,17 @@ N20;Strebersdorf Meriangasse;26;60201313
 N20;Strebersdorf Meriangasse;27;60200633
 N20;Strebersdorf Meriangasse;28;60201141
 N20;Strebersdorf Meriangasse;29;60200607
-N20;Strebersdorf Meriangasse;30;60200021
-N20;Strebersdorf Meriangasse;31;60200369
-N20;Strebersdorf Meriangasse;32;60200551
-N20;Strebersdorf Meriangasse;33;60200334
-N20;Strebersdorf Meriangasse;34;60200050
-N20;Strebersdorf Meriangasse;35;60200943
-N20;Strebersdorf Meriangasse;36;60200699
-N20;Strebersdorf Meriangasse;37;60200548
-N20;Strebersdorf Meriangasse;38;60201495
-N20;Strebersdorf Meriangasse;39;60200102
-N20;Strebersdorf Meriangasse;40;60201135
-N20;Strebersdorf Meriangasse;41;60200260
+N20;Strebersdorf Meriangasse;30;60200369
+N20;Strebersdorf Meriangasse;31;60200551
+N20;Strebersdorf Meriangasse;32;60200334
+N20;Strebersdorf Meriangasse;33;60200050
+N20;Strebersdorf Meriangasse;34;60200943
+N20;Strebersdorf Meriangasse;35;60200699
+N20;Strebersdorf Meriangasse;36;60200548
+N20;Strebersdorf Meriangasse;37;60201495
+N20;Strebersdorf Meriangasse;38;60200102
+N20;Strebersdorf Meriangasse;39;60201135
+N20;Strebersdorf Meriangasse;40;60200260
 N23;Hausfeldstraße;0;60200633
 N23;Hausfeldstraße;1;60200716
 N23;Hausfeldstraße;2;60200008
