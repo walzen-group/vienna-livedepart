@@ -1,4 +1,4 @@
-#generated=2026-09-14
+#generated=2026-09-21
 line;headsign;seq;diva
 1;Bösendorferstraße/Karlsplatz;0;60200486
 1;Bösendorferstraße/Karlsplatz;1;60201497
@@ -705,27 +705,26 @@ line;headsign;seq;diva
 12A;Schmelz, Gablenzgasse;2;60200306
 12A;Schmelz, Gablenzgasse;3;60201233
 12A;Schmelz, Gablenzgasse;4;60200104
-12A;Schmelz, Gablenzgasse;5;60200137
-12A;Schmelz, Gablenzgasse;6;60201018
-12A;Schmelz, Gablenzgasse;7;60201085
-12A;Schmelz, Gablenzgasse;8;60200696
-12A;Schmelz, Gablenzgasse;9;60200041
-12A;Schmelz, Gablenzgasse;10;60200379
-12A;Schmelz, Gablenzgasse;11;60201868
-12A;Schmelz, Gablenzgasse;12;60200082
-12A;Schmelz, Gablenzgasse;13;60200820
-12A;Schmelz, Gablenzgasse;14;60201324
-12A;Schmelz, Gablenzgasse;15;60200501
-12A;Schmelz, Gablenzgasse;16;60200712
-12A;Schmelz, Gablenzgasse;17;60200437
-12A;Schmelz, Gablenzgasse;18;60201179
-12A;Schmelz, Gablenzgasse;19;60201200
-12A;Schmelz, Gablenzgasse;20;60200556
-12A;Schmelz, Gablenzgasse;21;60200606
-12A;Schmelz, Gablenzgasse;22;60201713
-12A;Schmelz, Gablenzgasse;23;60200877
-12A;Schmelz, Gablenzgasse;24;60201013
-12A;Schmelz, Gablenzgasse;25;60201664
+12A;Schmelz, Gablenzgasse;5;60201018
+12A;Schmelz, Gablenzgasse;6;60201085
+12A;Schmelz, Gablenzgasse;7;60200696
+12A;Schmelz, Gablenzgasse;8;60200041
+12A;Schmelz, Gablenzgasse;9;60200379
+12A;Schmelz, Gablenzgasse;10;60201868
+12A;Schmelz, Gablenzgasse;11;60200082
+12A;Schmelz, Gablenzgasse;12;60200820
+12A;Schmelz, Gablenzgasse;13;60201324
+12A;Schmelz, Gablenzgasse;14;60200501
+12A;Schmelz, Gablenzgasse;15;60200712
+12A;Schmelz, Gablenzgasse;16;60200437
+12A;Schmelz, Gablenzgasse;17;60201179
+12A;Schmelz, Gablenzgasse;18;60201200
+12A;Schmelz, Gablenzgasse;19;60200556
+12A;Schmelz, Gablenzgasse;20;60200606
+12A;Schmelz, Gablenzgasse;21;60201713
+12A;Schmelz, Gablenzgasse;22;60200877
+12A;Schmelz, Gablenzgasse;23;60201013
+12A;Schmelz, Gablenzgasse;24;60201664
 13A;Burggasse/Neubaugasse;0;60201349
 13A;Burggasse/Neubaugasse;1;60200989
 13A;Burggasse/Neubaugasse;2;60200886
@@ -771,8 +770,7 @@ line;headsign;seq;diva
 13A;Margaretenplatz/Schönbrunner Straße;7;60200768
 13A;Margaretenplatz/Schönbrunner Straße;8;60201529
 13A;Margaretenplatz/Schönbrunner Straße;9;60200830
-13A;Margaretenplatz/Schönbrunner Straße;10;60200137
-13A;Margaretenplatz/Schönbrunner Straße;11;60200829
+13A;Margaretenplatz/Schönbrunner Straße;10;60200829
 13A;Neubaugasse;0;60201349
 13A;Neubaugasse;1;60200989
 13A;Neubaugasse;2;60200886
@@ -832,10 +830,9 @@ line;headsign;seq;diva
 14A;Haus des Meeres;7;60201286
 14A;Haus des Meeres;8;60201233
 14A;Haus des Meeres;9;60200104
-14A;Haus des Meeres;10;60200137
-14A;Haus des Meeres;11;60201018
-14A;Haus des Meeres;12;60200293
-14A;Haus des Meeres;13;60200662
+14A;Haus des Meeres;10;60201018
+14A;Haus des Meeres;11;60200293
+14A;Haus des Meeres;12;60200662
 14A;Neubaugasse;0;60201095
 14A;Neubaugasse;1;60201300
 14A;Neubaugasse;2;60200666
@@ -846,10 +843,9 @@ line;headsign;seq;diva
 14A;Neubaugasse;7;60201286
 14A;Neubaugasse;8;60201233
 14A;Neubaugasse;9;60200104
-14A;Neubaugasse;10;60200137
-14A;Neubaugasse;11;60201018
-14A;Neubaugasse;12;60200293
-14A;Neubaugasse;13;60200056
+14A;Neubaugasse;10;60201018
+14A;Neubaugasse;11;60200293
+14A;Neubaugasse;12;60200056
 14A;Reumannplatz;0;60200056
 14A;Reumannplatz;1;60200662
 14A;Reumannplatz;2;60200293
@@ -3448,6 +3444,33 @@ line;headsign;seq;diva
 45A;Ottakring;3;60200840
 45A;Ottakring;4;60201303
 45A;Ottakring;5;60200981
+46;Hütteldorf, Bujattigasse;0;60200246
+46;Hütteldorf, Bujattigasse;1;60200777
+46;Hütteldorf, Bujattigasse;2;60201340
+46;Hütteldorf, Bujattigasse;3;60201181
+46;Hütteldorf, Bujattigasse;4;60201372
+46;Hütteldorf, Bujattigasse;5;60200172
+46;Hütteldorf, Bujattigasse;6;60200783
+46;Hütteldorf, Bujattigasse;7;60201374
+46;Hütteldorf, Bujattigasse;8;60201190
+46;Hütteldorf, Bujattigasse;9;60200981
+46;Hütteldorf, Bujattigasse;10;60200840
+46;Hütteldorf, Bujattigasse;11;60201489
+46;Hütteldorf, Bujattigasse;12;60200597
+46;Hütteldorf, Bujattigasse;13;60200445
+46;Hütteldorf, Bujattigasse;14;60201317
+46;Hütteldorf, Bujattigasse;15;60200754
+46;Hütteldorf, Bujattigasse;16;60201035
+46;Hütteldorf, Bujattigasse;17;60200166
+46;Hütteldorf, Bujattigasse;18;60200780
+46;Hütteldorf, Bujattigasse;19;60200472
+46;Hütteldorf, Bujattigasse;20;60201014
+46;Hütteldorf, Bujattigasse;21;60201438
+46;Hütteldorf, Bujattigasse;22;60200534
+46;Hütteldorf, Bujattigasse;23;60200358
+46;Hütteldorf, Bujattigasse;24;60201613
+46;Hütteldorf, Bujattigasse;25;60200107
+46;Hütteldorf, Bujattigasse;26;60200184
 46;Joachimsthalerplatz;0;60200246
 46;Joachimsthalerplatz;1;60200777
 46;Joachimsthalerplatz;2;60201340
@@ -3732,6 +3755,30 @@ line;headsign;seq;diva
 49;Parlament/Volkstheater;21;60201325
 49;Parlament/Volkstheater;22;60201430
 49;Parlament/Volkstheater;23;60200246
+49;Winckelmannstraße;0;60200184
+49;Winckelmannstraße;1;60201734
+49;Winckelmannstraße;2;60200107
+49;Winckelmannstraße;3;60201613
+49;Winckelmannstraße;4;60200358
+49;Winckelmannstraße;5;60200534
+49;Winckelmannstraße;6;60201438
+49;Winckelmannstraße;7;60201014
+49;Winckelmannstraße;8;60200472
+49;Winckelmannstraße;9;60200780
+49;Winckelmannstraße;10;60200166
+49;Winckelmannstraße;11;60201035
+49;Winckelmannstraße;12;60200606
+49;Winckelmannstraße;13;60200556
+49;Winckelmannstraße;14;60201200
+49;Winckelmannstraße;15;60200458
+49;Winckelmannstraße;16;60201413
+49;Winckelmannstraße;17;60201468
+49;Winckelmannstraße;18;60201566
+49;Winckelmannstraße;19;60201306
+49;Winckelmannstraße;20;60200712
+49;Winckelmannstraße;21;60201132
+49;Winckelmannstraße;22;60200067
+49;Winckelmannstraße;23;60201493
 49A;Hütteldorf;0;60201261
 49A;Hütteldorf;1;60201826
 49A;Hütteldorf;2;60200216
@@ -4017,6 +4064,30 @@ line;headsign;seq;diva
 52;Baumgarten;15;60200434
 52;Baumgarten;16;60200113
 52;Baumgarten;17;60200358
+52;Parlament/Volkstheater;0;60200358
+52;Parlament/Volkstheater;1;60200113
+52;Parlament/Volkstheater;2;60200434
+52;Parlament/Volkstheater;3;60201517
+52;Parlament/Volkstheater;4;60200442
+52;Parlament/Volkstheater;5;60200819
+52;Parlament/Volkstheater;6;60200055
+52;Parlament/Volkstheater;7;60200302
+52;Parlament/Volkstheater;8;60201084
+52;Parlament/Volkstheater;9;60201158
+52;Parlament/Volkstheater;10;60200067
+52;Parlament/Volkstheater;11;60201132
+52;Parlament/Volkstheater;12;60200712
+52;Parlament/Volkstheater;13;60201306
+52;Parlament/Volkstheater;14;60201566
+52;Parlament/Volkstheater;15;60201468
+52;Parlament/Volkstheater;16;60201413
+52;Parlament/Volkstheater;17;60200646
+52;Parlament/Volkstheater;18;60201533
+52;Parlament/Volkstheater;19;60201088
+52;Parlament/Volkstheater;20;60201237
+52;Parlament/Volkstheater;21;60201325
+52;Parlament/Volkstheater;22;60201430
+52;Parlament/Volkstheater;23;60200246
 52;Rudolfsheim, Anschützgasse;0;60200358
 52;Rudolfsheim, Anschützgasse;1;60200113
 52;Rudolfsheim, Anschützgasse;2;60200434
@@ -4429,8 +4500,7 @@ line;headsign;seq;diva
 59A;Margaretenplatz/Schönbrunner Straße;6;60200269
 59A;Margaretenplatz/Schönbrunner Straße;7;60201086
 59A;Margaretenplatz/Schönbrunner Straße;8;60200104
-59A;Margaretenplatz/Schönbrunner Straße;9;60200137
-59A;Margaretenplatz/Schönbrunner Straße;10;60200829
+59A;Margaretenplatz/Schönbrunner Straße;9;60200829
 59A;Meidling;0;60200975
 59A;Meidling;1;60200193
 59A;Meidling;2;60201168
@@ -4456,13 +4526,12 @@ line;headsign;seq;diva
 59A;Oper/Karlsplatz;6;60200269
 59A;Oper/Karlsplatz;7;60201086
 59A;Oper/Karlsplatz;8;60200104
-59A;Oper/Karlsplatz;9;60200137
-59A;Oper/Karlsplatz;10;60200829
-59A;Oper/Karlsplatz;11;60200517
-59A;Oper/Karlsplatz;12;60201047
-59A;Oper/Karlsplatz;13;60200193
-59A;Oper/Karlsplatz;14;60200657
-59A;Oper/Karlsplatz;15;60200975
+59A;Oper/Karlsplatz;9;60200829
+59A;Oper/Karlsplatz;10;60200517
+59A;Oper/Karlsplatz;11;60201047
+59A;Oper/Karlsplatz;12;60200193
+59A;Oper/Karlsplatz;13;60200657
+59A;Oper/Karlsplatz;14;60200975
 5A;Gaußplatz;0;60200424
 5A;Gaußplatz;1;60200011
 5A;Gaußplatz;2;60200781
@@ -7259,23 +7328,21 @@ D;Augasse;7;60201068
 D;Augasse;8;60201062
 D;Augasse;9;60200786
 D;Augasse;10;60200099
-D;Börse;0;60200116
-D;Börse;1;60200948
-D;Börse;2;60201231
-D;Börse;3;60200428
-D;Börse;4;60200468
-D;Börse;5;60200301
-D;Börse;6;60200439
-D;Börse;7;60201068
-D;Börse;8;60201062
-D;Börse;9;60200786
-D;Börse;10;60200099
-D;Börse;11;60200034
-D;Börse;12;60200345
-D;Börse;13;60200371
-D;Börse;14;60200112
-D;Börse;15;60201169
-D;Börse;16;60200195
+D;Börse;0;60201910
+D;Börse;1;60201912
+D;Börse;2;60201016
+D;Börse;3;60200905
+D;Börse;4;60201346
+D;Börse;5;60201173
+D;Börse;6;60201025
+D;Börse;7;60200446
+D;Börse;8;60201193
+D;Börse;9;60200975
+D;Börse;10;60200190
+D;Börse;11;60200246
+D;Börse;12;60200192
+D;Börse;13;60201184
+D;Börse;14;60200195
 D;Fickeysstraße;0;60201910
 D;Fickeysstraße;1;60200382
 D;Fickeysstraße;2;60200484
@@ -7695,25 +7762,24 @@ N35;Nußdorfer Straße;14;60200376
 N35;Nußdorfer Straße;15;60200474
 N35;Nußdorfer Straße;16;60200405
 N35;Nußdorfer Straße;17;60200950
-N35;Salmannsdorf;0;60201062
-N35;Salmannsdorf;1;60200950
-N35;Salmannsdorf;2;60201462
-N35;Salmannsdorf;3;60201509
-N35;Salmannsdorf;4;60200474
-N35;Salmannsdorf;5;60200376
-N35;Salmannsdorf;6;60200723
-N35;Salmannsdorf;7;60200336
-N35;Salmannsdorf;8;60201108
-N35;Salmannsdorf;9;60200714
-N35;Salmannsdorf;10;60200443
-N35;Salmannsdorf;11;60200404
-N35;Salmannsdorf;12;60200648
-N35;Salmannsdorf;13;60201336
-N35;Salmannsdorf;14;60200687
-N35;Salmannsdorf;15;60200010
-N35;Salmannsdorf;16;60200931
-N35;Salmannsdorf;17;60200206
-N35;Salmannsdorf;18;60201142
+N35;Salmannsdorf;0;60200950
+N35;Salmannsdorf;1;60201462
+N35;Salmannsdorf;2;60201509
+N35;Salmannsdorf;3;60200474
+N35;Salmannsdorf;4;60200376
+N35;Salmannsdorf;5;60200723
+N35;Salmannsdorf;6;60200336
+N35;Salmannsdorf;7;60201108
+N35;Salmannsdorf;8;60200714
+N35;Salmannsdorf;9;60200443
+N35;Salmannsdorf;10;60200404
+N35;Salmannsdorf;11;60200648
+N35;Salmannsdorf;12;60201336
+N35;Salmannsdorf;13;60200687
+N35;Salmannsdorf;14;60200010
+N35;Salmannsdorf;15;60200931
+N35;Salmannsdorf;16;60200206
+N35;Salmannsdorf;17;60201142
 N36;Nußdorf;0;60200950
 N36;Nußdorf;1;60200786
 N36;Nußdorf;2;60201062
