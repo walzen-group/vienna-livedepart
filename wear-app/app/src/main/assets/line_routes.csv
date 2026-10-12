@@ -1,4 +1,4 @@
-#generated=2026-10-05
+#generated=2026-10-12
 line;headsign;seq;diva
 1;Bösendorferstraße/Karlsplatz;0;60200486
 1;Bösendorferstraße/Karlsplatz;1;60201497
@@ -7762,24 +7762,25 @@ N35;Nußdorfer Straße;14;60200376
 N35;Nußdorfer Straße;15;60200474
 N35;Nußdorfer Straße;16;60200405
 N35;Nußdorfer Straße;17;60200950
-N35;Salmannsdorf;0;60200950
-N35;Salmannsdorf;1;60201462
-N35;Salmannsdorf;2;60201509
-N35;Salmannsdorf;3;60200474
-N35;Salmannsdorf;4;60200376
-N35;Salmannsdorf;5;60200723
-N35;Salmannsdorf;6;60200336
-N35;Salmannsdorf;7;60201108
-N35;Salmannsdorf;8;60200714
-N35;Salmannsdorf;9;60200443
-N35;Salmannsdorf;10;60200404
-N35;Salmannsdorf;11;60200648
-N35;Salmannsdorf;12;60201336
-N35;Salmannsdorf;13;60200687
-N35;Salmannsdorf;14;60200010
-N35;Salmannsdorf;15;60200931
-N35;Salmannsdorf;16;60200206
-N35;Salmannsdorf;17;60201142
+N35;Salmannsdorf;0;60201062
+N35;Salmannsdorf;1;60200950
+N35;Salmannsdorf;2;60201462
+N35;Salmannsdorf;3;60201509
+N35;Salmannsdorf;4;60200474
+N35;Salmannsdorf;5;60200376
+N35;Salmannsdorf;6;60200723
+N35;Salmannsdorf;7;60200336
+N35;Salmannsdorf;8;60201108
+N35;Salmannsdorf;9;60200714
+N35;Salmannsdorf;10;60200443
+N35;Salmannsdorf;11;60200404
+N35;Salmannsdorf;12;60200648
+N35;Salmannsdorf;13;60201336
+N35;Salmannsdorf;14;60200687
+N35;Salmannsdorf;15;60200010
+N35;Salmannsdorf;16;60200931
+N35;Salmannsdorf;17;60200206
+N35;Salmannsdorf;18;60201142
 N36;Nußdorf;0;60200950
 N36;Nußdorf;1;60200786
 N36;Nußdorf;2;60201062
