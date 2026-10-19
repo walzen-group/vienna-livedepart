@@ -1,4 +1,4 @@
-#generated=2026-10-12
+#generated=2026-10-19
 line;headsign;seq;diva
 1;Bösendorferstraße/Karlsplatz;0;60200486
 1;Bösendorferstraße/Karlsplatz;1;60201497
@@ -107,6 +107,34 @@ line;headsign;seq;diva
 1;Prater, Hauptallee;27;60201071
 1;Prater, Hauptallee;28;60201497
 1;Prater, Hauptallee;29;60200486
+1;Reumannplatz;0;60200486
+1;Reumannplatz;1;60201497
+1;Reumannplatz;2;60201071
+1;Reumannplatz;3;60200513
+1;Reumannplatz;4;60201063
+1;Reumannplatz;5;60200527
+1;Reumannplatz;6;60200619
+1;Reumannplatz;7;60201198
+1;Reumannplatz;8;60201145
+1;Reumannplatz;9;60201182
+1;Reumannplatz;10;60200195
+1;Reumannplatz;11;60201184
+1;Reumannplatz;12;60200192
+1;Reumannplatz;13;60200246
+1;Reumannplatz;14;60200190
+1;Reumannplatz;15;60200975
+1;Reumannplatz;16;60201094
+1;Reumannplatz;17;60200996
+1;Reumannplatz;18;60200859
+1;Reumannplatz;19;60200604
+1;Reumannplatz;20;60200755
+1;Reumannplatz;21;60200689
+1;Reumannplatz;22;60200849
+1;Reumannplatz;23;60201060
+1;Reumannplatz;24;60201598
+1;Reumannplatz;25;60200914
+1;Reumannplatz;26;60201058
+1;Reumannplatz;27;60201095
 1;Stefan-Fadinger-Platz;0;60200486
 1;Stefan-Fadinger-Platz;1;60201497
 1;Stefan-Fadinger-Platz;2;60201071
@@ -334,6 +362,25 @@ line;headsign;seq;diva
 11;Enkplatz;16;60200484
 11;Enkplatz;17;60201263
 11;Enkplatz;18;60200425
+11;Enkplatz/Grillgasse;0;60200986
+11;Enkplatz/Grillgasse;1;60201371
+11;Enkplatz/Grillgasse;2;60200987
+11;Enkplatz/Grillgasse;3;60200365
+11;Enkplatz/Grillgasse;4;60201480
+11;Enkplatz/Grillgasse;5;60201140
+11;Enkplatz/Grillgasse;6;60201078
+11;Enkplatz/Grillgasse;7;60201393
+11;Enkplatz/Grillgasse;8;60200760
+11;Enkplatz/Grillgasse;9;60200086
+11;Enkplatz/Grillgasse;10;60201058
+11;Enkplatz/Grillgasse;11;60201095
+11;Enkplatz/Grillgasse;12;60200384
+11;Enkplatz/Grillgasse;13;60200001
+11;Enkplatz/Grillgasse;14;60201910
+11;Enkplatz/Grillgasse;15;60200382
+11;Enkplatz/Grillgasse;16;60200484
+11;Enkplatz/Grillgasse;17;60201263
+11;Enkplatz/Grillgasse;18;60200425
 11;Fickeysstraße;0;60200639
 11;Fickeysstraße;1;60201418
 11;Fickeysstraße;2;60201671
@@ -885,6 +932,29 @@ line;headsign;seq;diva
 15A;Enkplatz;20;60200042
 15A;Enkplatz;21;60200814
 15A;Enkplatz;22;60200425
+15A;Enkplatz/Grillgasse;0;60201160
+15A;Enkplatz/Grillgasse;1;60201508
+15A;Enkplatz/Grillgasse;2;60200264
+15A;Enkplatz/Grillgasse;3;60200053
+15A;Enkplatz/Grillgasse;4;60201571
+15A;Enkplatz/Grillgasse;5;60200030
+15A;Enkplatz/Grillgasse;6;60201312
+15A;Enkplatz/Grillgasse;7;60200447
+15A;Enkplatz/Grillgasse;8;60201078
+15A;Enkplatz/Grillgasse;9;60200761
+15A;Enkplatz/Grillgasse;10;60200295
+15A;Enkplatz/Grillgasse;11;60200033
+15A;Enkplatz/Grillgasse;12;60200928
+15A;Enkplatz/Grillgasse;13;60200331
+15A;Enkplatz/Grillgasse;14;60201245
+15A;Enkplatz/Grillgasse;15;60200750
+15A;Enkplatz/Grillgasse;16;60200908
+15A;Enkplatz/Grillgasse;17;60200858
+15A;Enkplatz/Grillgasse;18;60201344
+15A;Enkplatz/Grillgasse;19;60201257
+15A;Enkplatz/Grillgasse;20;60200042
+15A;Enkplatz/Grillgasse;21;60200814
+15A;Enkplatz/Grillgasse;22;60200425
 15A;Grenzackerstraße;0;60201160
 15A;Grenzackerstraße;1;60201508
 15A;Grenzackerstraße;2;60200264
@@ -1554,8 +1624,7 @@ line;headsign;seq;diva
 25;Aspern Nord;25;60201922
 25;Aspern Nord;26;60200596
 25;Aspern Nord;27;60201963
-25;Aspern Nord;28;60201964
-25;Aspern Nord;29;60200910
+25;Aspern Nord;28;60200910
 25;Aspern, Oberdorfstraße;0;60200334
 25;Aspern, Oberdorfstraße;1;60200551
 25;Aspern, Oberdorfstraße;2;60200369
@@ -2915,10 +2984,8 @@ line;headsign;seq;diva
 38B;Heiligenstädter Friedhof;0;60200116
 38B;Heiligenstädter Friedhof;1;60201882
 38B;Heiligenstädter Friedhof;2;60201883
-38B;Nußdorf, Beethovengang;0;60200116
-38B;Nußdorf, Beethovengang;1;60201882
-38B;Nußdorf, Beethovengang;2;60201883
-38B;Nußdorf, Beethovengang;3;60200116
+38B;Nußdorf, Beethovengang;0;60201883
+38B;Nußdorf, Beethovengang;1;60200116
 39A;Heiligenstadt;0;60201250
 39A;Heiligenstadt;1;60200367
 39A;Heiligenstadt;2;60200660
@@ -3540,6 +3607,11 @@ line;headsign;seq;diva
 46B;Ottakring;7;60200840
 46B;Ottakring;8;60201303
 46B;Ottakring;9;60200981
+46B;Ottakringer Bad;0;60200981
+46B;Ottakringer Bad;1;60200840
+46B;Ottakringer Bad;2;60200372
+46B;Ottakringer Bad;3;60201318
+46B;Ottakringer Bad;4;60200983
 46B;Wilhelminenberg;0;60200981
 46B;Wilhelminenberg;1;60200840
 46B;Wilhelminenberg;2;60200372
@@ -6002,6 +6074,11 @@ line;headsign;seq;diva
 76A;Enkplatz;17;60201264
 76A;Enkplatz;18;60200715
 76A;Enkplatz;19;60200425
+76A;Enkplatz/Grillgasse;0;60200465
+76A;Enkplatz/Grillgasse;1;60201070
+76A;Enkplatz/Grillgasse;2;60201264
+76A;Enkplatz/Grillgasse;3;60200715
+76A;Enkplatz/Grillgasse;4;60200425
 76A;Haidestraße;0;60200425
 76A;Haidestraße;1;60201264
 76A;Haidestraße;2;60201070
@@ -6068,6 +6145,26 @@ line;headsign;seq;diva
 76B;Enkplatz;17;60201264
 76B;Enkplatz;18;60200715
 76B;Enkplatz;19;60200425
+76B;Enkplatz/Grillgasse;0;60200015
+76B;Enkplatz/Grillgasse;1;60200018
+76B;Enkplatz/Grillgasse;2;60200907
+76B;Enkplatz/Grillgasse;3;60200639
+76B;Enkplatz/Grillgasse;4;60200087
+76B;Enkplatz/Grillgasse;5;60201478
+76B;Enkplatz/Grillgasse;6;60201457
+76B;Enkplatz/Grillgasse;7;60201476
+76B;Enkplatz/Grillgasse;8;60200463
+76B;Enkplatz/Grillgasse;9;60201487
+76B;Enkplatz/Grillgasse;10;60200146
+76B;Enkplatz/Grillgasse;11;60200464
+76B;Enkplatz/Grillgasse;12;60201259
+76B;Enkplatz/Grillgasse;13;60200957
+76B;Enkplatz/Grillgasse;14;60200131
+76B;Enkplatz/Grillgasse;15;60200465
+76B;Enkplatz/Grillgasse;16;60201070
+76B;Enkplatz/Grillgasse;17;60201264
+76B;Enkplatz/Grillgasse;18;60200715
+76B;Enkplatz/Grillgasse;19;60200425
 77A;Donaumarina;0;60201199
 77A;Donaumarina;1;60200821
 77A;Donaumarina;2;60200282
@@ -6303,6 +6400,15 @@ line;headsign;seq;diva
 7B;Wienerberg City;2;60201571
 7B;Wienerberg City;3;60201760
 7B;Wienerberg City;4;60201761
+80A;Franzensbrücke;0;60201199
+80A;Franzensbrücke;1;60200821
+80A;Franzensbrücke;2;60201206
+80A;Franzensbrücke;3;60200817
+80A;Franzensbrücke;4;60200359
+80A;Franzensbrücke;5;60201497
+80A;Franzensbrücke;6;60200609
+80A;Franzensbrücke;7;60200730
+80A;Franzensbrücke;8;60200348
 80A;Neu Marx;0;60201040
 80A;Neu Marx;1;60201427
 80A;Neu Marx;2;60200730
@@ -8101,6 +8207,24 @@ N6;Enkplatz;14;60200382
 N6;Enkplatz;15;60200484
 N6;Enkplatz;16;60201263
 N6;Enkplatz;17;60200425
+N6;Enkplatz/Grillgasse;0;60201468
+N6;Enkplatz/Grillgasse;1;60200436
+N6;Enkplatz/Grillgasse;2;60201725
+N6;Enkplatz/Grillgasse;3;60200379
+N6;Enkplatz/Grillgasse;4;60200077
+N6;Enkplatz/Grillgasse;5;60200267
+N6;Enkplatz/Grillgasse;6;60200849
+N6;Enkplatz/Grillgasse;7;60201598
+N6;Enkplatz/Grillgasse;8;60200914
+N6;Enkplatz/Grillgasse;9;60201058
+N6;Enkplatz/Grillgasse;10;60201095
+N6;Enkplatz/Grillgasse;11;60200384
+N6;Enkplatz/Grillgasse;12;60200001
+N6;Enkplatz/Grillgasse;13;60201910
+N6;Enkplatz/Grillgasse;14;60200382
+N6;Enkplatz/Grillgasse;15;60200484
+N6;Enkplatz/Grillgasse;16;60201263
+N6;Enkplatz/Grillgasse;17;60200425
 N6;Westbahnhof;0;60200425
 N6;Westbahnhof;1;60201757
 N6;Westbahnhof;2;60201263
@@ -8553,6 +8677,35 @@ N71;Skodagasse;42;60201017
 N71;Skodagasse;43;60201375
 N71;Skodagasse;44;60200753
 N71;Skodagasse;45;60201267
+N75;Gasometer;0;60200975
+N75;Gasometer;1;60201193
+N75;Gasometer;2;60200743
+N75;Gasometer;3;60201471
+N75;Gasometer;4;60201104
+N75;Gasometer;5;60200993
+N75;Gasometer;6;60200075
+N75;Gasometer;7;60200653
+N75;Gasometer;8;60200765
+N75;Gasometer;9;60200283
+N75;Gasometer;10;60201769
+N75;Gasometer;11;60200289
+N75;Gasometer;12;60201770
+N75;Gasometer;13;60201749
+N75;Oper/Karlsplatz;0;60201749
+N75;Oper/Karlsplatz;1;60201770
+N75;Oper/Karlsplatz;2;60200289
+N75;Oper/Karlsplatz;3;60201769
+N75;Oper/Karlsplatz;4;60200283
+N75;Oper/Karlsplatz;5;60200765
+N75;Oper/Karlsplatz;6;60200653
+N75;Oper/Karlsplatz;7;60200075
+N75;Oper/Karlsplatz;8;60200993
+N75;Oper/Karlsplatz;9;60201104
+N75;Oper/Karlsplatz;10;60201471
+N75;Oper/Karlsplatz;11;60200743
+N75;Oper/Karlsplatz;12;60200245
+N75;Oper/Karlsplatz;13;60201193
+N75;Oper/Karlsplatz;14;60200975
 N81;Praterbrücke;0;60201040
 N81;Praterbrücke;1;60201421
 N81;Praterbrücke;2;60201009
