@@ -1,4 +1,4 @@
-#generated=2026-10-19
+#generated=2026-10-26
 line;headsign;seq;diva
 1;Bösendorferstraße/Karlsplatz;0;60200486
 1;Bösendorferstraße/Karlsplatz;1;60201497
@@ -1057,17 +1057,53 @@ line;headsign;seq;diva
 16A;Hetzendorf;15;60200681
 16A;Hetzendorf;16;60200960
 16A;Hetzendorf;17;60200212
-16A;Hetzendorf;18;60200444
-16A;Hetzendorf;19;60200930
-16A;Hetzendorf;20;60200913
-16A;Hetzendorf;21;60201514
-16A;Hetzendorf;22;60200782
-16A;Hetzendorf;23;60201857
-16A;Hetzendorf;24;60200048
-16A;Hetzendorf;25;60200674
-16A;Hetzendorf;26;60201678
-16A;Hetzendorf;27;60200035
-16A;Hetzendorf;28;60200511
+16A;Hetzendorf;18;60200183
+16A;Hetzendorf;19;60200444
+16A;Hetzendorf;20;60200930
+16A;Hetzendorf;21;60200913
+16A;Hetzendorf;22;60201514
+16A;Hetzendorf;23;60200782
+16A;Hetzendorf;24;60201857
+16A;Hetzendorf;25;60200048
+16A;Hetzendorf;26;60200674
+16A;Hetzendorf;27;60201678
+16A;Hetzendorf;28;60200035
+16A;Hetzendorf;29;60200511
+16A;Südwestfriedhof 2. & 8. Tor;0;60200014
+16A;Südwestfriedhof 2. & 8. Tor;1;60201327
+16A;Südwestfriedhof 2. & 8. Tor;2;60201481
+16A;Südwestfriedhof 2. & 8. Tor;3;60200524
+16A;Südwestfriedhof 2. & 8. Tor;4;60200349
+16A;Südwestfriedhof 2. & 8. Tor;5;60201552
+16A;Südwestfriedhof 2. & 8. Tor;6;60201524
+16A;Südwestfriedhof 2. & 8. Tor;7;60200582
+16A;Südwestfriedhof 2. & 8. Tor;8;60201741
+16A;Südwestfriedhof 2. & 8. Tor;9;60201437
+16A;Südwestfriedhof 2. & 8. Tor;10;60200697
+16A;Südwestfriedhof 2. & 8. Tor;11;60200599
+16A;Südwestfriedhof 2. & 8. Tor;12;60200580
+16A;Südwestfriedhof 2. & 8. Tor;13;60201560
+16A;Südwestfriedhof 2. & 8. Tor;14;60200986
+16A;Südwestfriedhof 2. & 8. Tor;15;60200681
+16A;Südwestfriedhof 2. & 8. Tor;16;60200960
+16A;Südwestfriedhof 2. & 8. Tor;17;60200212
+16A;Südwestfriedhof 2. & 8. Tor;18;60200183
+16A;Südwestfriedhof 2. & 8. Tor;19;60200444
+16A;Südwestfriedhof 2. & 8. Tor;20;60200930
+16A;Südwestfriedhof 2. & 8. Tor;21;60200913
+16A;Südwestfriedhof 2. & 8. Tor;22;60201514
+16A;Südwestfriedhof 2. & 8. Tor;23;60200782
+16A;Südwestfriedhof 2. & 8. Tor;24;60201857
+16A;Südwestfriedhof 2. & 8. Tor;25;60200048
+16A;Südwestfriedhof 2. & 8. Tor;26;60200674
+16A;Südwestfriedhof 2. & 8. Tor;27;60201678
+16A;Südwestfriedhof 2. & 8. Tor;28;60200035
+16A;Südwestfriedhof 2. & 8. Tor;29;60200511
+16A;Südwestfriedhof 2. & 8. Tor;30;60201174
+16A;Südwestfriedhof 2. & 8. Tor;31;60201679
+16A;Südwestfriedhof 2. & 8. Tor;32;60200841
+16A;Südwestfriedhof 2. & 8. Tor;33;60201352
+16A;Südwestfriedhof 2. & 8. Tor;34;60201353
 17A;Inzersdorf, Birostraße;0;60200949
 17A;Inzersdorf, Birostraße;1;60200970
 17A;Inzersdorf, Birostraße;2;60200776
@@ -1835,30 +1871,30 @@ line;headsign;seq;diva
 26;Nordbrücke;4;60200548
 26;Nordbrücke;5;60200699
 26;Nordbrücke;6;60200943
-26;Strebersdorf Meriangasse;0;60200487
-26;Strebersdorf Meriangasse;1;60200039
-26;Strebersdorf Meriangasse;2;60200038
-26;Strebersdorf Meriangasse;3;60201048
-26;Strebersdorf Meriangasse;4;60200965
-26;Strebersdorf Meriangasse;5;60200966
-26;Strebersdorf Meriangasse;6;60201595
-26;Strebersdorf Meriangasse;7;60201786
-26;Strebersdorf Meriangasse;8;60200938
-26;Strebersdorf Meriangasse;9;60200716
-26;Strebersdorf Meriangasse;10;60200633
-26;Strebersdorf Meriangasse;11;60201141
-26;Strebersdorf Meriangasse;12;60200607
-26;Strebersdorf Meriangasse;13;60200369
-26;Strebersdorf Meriangasse;14;60200551
-26;Strebersdorf Meriangasse;15;60200334
-26;Strebersdorf Meriangasse;16;60200050
-26;Strebersdorf Meriangasse;17;60200943
-26;Strebersdorf Meriangasse;18;60200699
-26;Strebersdorf Meriangasse;19;60200548
-26;Strebersdorf Meriangasse;20;60201495
-26;Strebersdorf Meriangasse;21;60200102
-26;Strebersdorf Meriangasse;22;60201135
-26;Strebersdorf Meriangasse;23;60200260
+26;Strebersdorf, Meriangasse;0;60200487
+26;Strebersdorf, Meriangasse;1;60200039
+26;Strebersdorf, Meriangasse;2;60200038
+26;Strebersdorf, Meriangasse;3;60201048
+26;Strebersdorf, Meriangasse;4;60200965
+26;Strebersdorf, Meriangasse;5;60200966
+26;Strebersdorf, Meriangasse;6;60201595
+26;Strebersdorf, Meriangasse;7;60201786
+26;Strebersdorf, Meriangasse;8;60200938
+26;Strebersdorf, Meriangasse;9;60200716
+26;Strebersdorf, Meriangasse;10;60200633
+26;Strebersdorf, Meriangasse;11;60201141
+26;Strebersdorf, Meriangasse;12;60200607
+26;Strebersdorf, Meriangasse;13;60200369
+26;Strebersdorf, Meriangasse;14;60200551
+26;Strebersdorf, Meriangasse;15;60200334
+26;Strebersdorf, Meriangasse;16;60200050
+26;Strebersdorf, Meriangasse;17;60200943
+26;Strebersdorf, Meriangasse;18;60200699
+26;Strebersdorf, Meriangasse;19;60200548
+26;Strebersdorf, Meriangasse;20;60201495
+26;Strebersdorf, Meriangasse;21;60200102
+26;Strebersdorf, Meriangasse;22;60201135
+26;Strebersdorf, Meriangasse;23;60200260
 26A;Groß-Enzersdorf Busbahnhof;0;60200627
 26A;Groß-Enzersdorf Busbahnhof;1;60200238
 26A;Groß-Enzersdorf Busbahnhof;2;60200568
@@ -1973,32 +2009,32 @@ line;headsign;seq;diva
 27;Nordbrücke;4;60200548
 27;Nordbrücke;5;60200699
 27;Nordbrücke;6;60200943
-27;Strebersdorf Meriangasse;0;60200910
-27;Strebersdorf Meriangasse;1;60201964
-27;Strebersdorf Meriangasse;2;60201963
-27;Strebersdorf Meriangasse;3;60200596
-27;Strebersdorf Meriangasse;4;60201922
-27;Strebersdorf Meriangasse;5;60201048
-27;Strebersdorf Meriangasse;6;60200965
-27;Strebersdorf Meriangasse;7;60200966
-27;Strebersdorf Meriangasse;8;60201595
-27;Strebersdorf Meriangasse;9;60201786
-27;Strebersdorf Meriangasse;10;60200938
-27;Strebersdorf Meriangasse;11;60200716
-27;Strebersdorf Meriangasse;12;60200633
-27;Strebersdorf Meriangasse;13;60201141
-27;Strebersdorf Meriangasse;14;60200607
-27;Strebersdorf Meriangasse;15;60200369
-27;Strebersdorf Meriangasse;16;60200551
-27;Strebersdorf Meriangasse;17;60200334
-27;Strebersdorf Meriangasse;18;60200050
-27;Strebersdorf Meriangasse;19;60200943
-27;Strebersdorf Meriangasse;20;60200699
-27;Strebersdorf Meriangasse;21;60200548
-27;Strebersdorf Meriangasse;22;60201495
-27;Strebersdorf Meriangasse;23;60200102
-27;Strebersdorf Meriangasse;24;60201135
-27;Strebersdorf Meriangasse;25;60200260
+27;Strebersdorf, Meriangasse;0;60200910
+27;Strebersdorf, Meriangasse;1;60201964
+27;Strebersdorf, Meriangasse;2;60201963
+27;Strebersdorf, Meriangasse;3;60200596
+27;Strebersdorf, Meriangasse;4;60201922
+27;Strebersdorf, Meriangasse;5;60201048
+27;Strebersdorf, Meriangasse;6;60200965
+27;Strebersdorf, Meriangasse;7;60200966
+27;Strebersdorf, Meriangasse;8;60201595
+27;Strebersdorf, Meriangasse;9;60201786
+27;Strebersdorf, Meriangasse;10;60200938
+27;Strebersdorf, Meriangasse;11;60200716
+27;Strebersdorf, Meriangasse;12;60200633
+27;Strebersdorf, Meriangasse;13;60201141
+27;Strebersdorf, Meriangasse;14;60200607
+27;Strebersdorf, Meriangasse;15;60200369
+27;Strebersdorf, Meriangasse;16;60200551
+27;Strebersdorf, Meriangasse;17;60200334
+27;Strebersdorf, Meriangasse;18;60200050
+27;Strebersdorf, Meriangasse;19;60200943
+27;Strebersdorf, Meriangasse;20;60200699
+27;Strebersdorf, Meriangasse;21;60200548
+27;Strebersdorf, Meriangasse;22;60201495
+27;Strebersdorf, Meriangasse;23;60200102
+27;Strebersdorf, Meriangasse;24;60201135
+27;Strebersdorf, Meriangasse;25;60200260
 27A;Hermann-Gebauer-Straße;0;60200627
 27A;Hermann-Gebauer-Straße;1;60200984
 27A;Hermann-Gebauer-Straße;2;60201141
@@ -7621,47 +7657,47 @@ N20;Kagran;12;60201141
 N20;Kagran;13;60200633
 N20;Kagran;14;60201313
 N20;Kagran;15;60200627
-N20;Strebersdorf Meriangasse;0;60200441
-N20;Strebersdorf Meriangasse;1;60200281
-N20;Strebersdorf Meriangasse;2;60201026
-N20;Strebersdorf Meriangasse;3;60201662
-N20;Strebersdorf Meriangasse;4;60200297
-N20;Strebersdorf Meriangasse;5;60200682
-N20;Strebersdorf Meriangasse;6;60200751
-N20;Strebersdorf Meriangasse;7;60200337
-N20;Strebersdorf Meriangasse;8;60201143
-N20;Strebersdorf Meriangasse;9;60200811
-N20;Strebersdorf Meriangasse;10;60201247
-N20;Strebersdorf Meriangasse;11;60200089
-N20;Strebersdorf Meriangasse;12;60201631
-N20;Strebersdorf Meriangasse;13;60201630
-N20;Strebersdorf Meriangasse;14;60200778
-N20;Strebersdorf Meriangasse;15;60201278
-N20;Strebersdorf Meriangasse;16;60200473
-N20;Strebersdorf Meriangasse;17;60200749
-N20;Strebersdorf Meriangasse;18;60200701
-N20;Strebersdorf Meriangasse;19;60200288
-N20;Strebersdorf Meriangasse;20;60201031
-N20;Strebersdorf Meriangasse;21;60200236
-N20;Strebersdorf Meriangasse;22;60200568
-N20;Strebersdorf Meriangasse;23;60200134
-N20;Strebersdorf Meriangasse;24;60200238
-N20;Strebersdorf Meriangasse;25;60200627
-N20;Strebersdorf Meriangasse;26;60201313
-N20;Strebersdorf Meriangasse;27;60200633
-N20;Strebersdorf Meriangasse;28;60201141
-N20;Strebersdorf Meriangasse;29;60200607
-N20;Strebersdorf Meriangasse;30;60200369
-N20;Strebersdorf Meriangasse;31;60200551
-N20;Strebersdorf Meriangasse;32;60200334
-N20;Strebersdorf Meriangasse;33;60200050
-N20;Strebersdorf Meriangasse;34;60200943
-N20;Strebersdorf Meriangasse;35;60200699
-N20;Strebersdorf Meriangasse;36;60200548
-N20;Strebersdorf Meriangasse;37;60201495
-N20;Strebersdorf Meriangasse;38;60200102
-N20;Strebersdorf Meriangasse;39;60201135
-N20;Strebersdorf Meriangasse;40;60200260
+N20;Strebersdorf, Meriangasse;0;60200441
+N20;Strebersdorf, Meriangasse;1;60200281
+N20;Strebersdorf, Meriangasse;2;60201026
+N20;Strebersdorf, Meriangasse;3;60201662
+N20;Strebersdorf, Meriangasse;4;60200297
+N20;Strebersdorf, Meriangasse;5;60200682
+N20;Strebersdorf, Meriangasse;6;60200751
+N20;Strebersdorf, Meriangasse;7;60200337
+N20;Strebersdorf, Meriangasse;8;60201143
+N20;Strebersdorf, Meriangasse;9;60200811
+N20;Strebersdorf, Meriangasse;10;60201247
+N20;Strebersdorf, Meriangasse;11;60200089
+N20;Strebersdorf, Meriangasse;12;60201631
+N20;Strebersdorf, Meriangasse;13;60201630
+N20;Strebersdorf, Meriangasse;14;60200778
+N20;Strebersdorf, Meriangasse;15;60201278
+N20;Strebersdorf, Meriangasse;16;60200473
+N20;Strebersdorf, Meriangasse;17;60200749
+N20;Strebersdorf, Meriangasse;18;60200701
+N20;Strebersdorf, Meriangasse;19;60200288
+N20;Strebersdorf, Meriangasse;20;60201031
+N20;Strebersdorf, Meriangasse;21;60200236
+N20;Strebersdorf, Meriangasse;22;60200568
+N20;Strebersdorf, Meriangasse;23;60200134
+N20;Strebersdorf, Meriangasse;24;60200238
+N20;Strebersdorf, Meriangasse;25;60200627
+N20;Strebersdorf, Meriangasse;26;60201313
+N20;Strebersdorf, Meriangasse;27;60200633
+N20;Strebersdorf, Meriangasse;28;60201141
+N20;Strebersdorf, Meriangasse;29;60200607
+N20;Strebersdorf, Meriangasse;30;60200369
+N20;Strebersdorf, Meriangasse;31;60200551
+N20;Strebersdorf, Meriangasse;32;60200334
+N20;Strebersdorf, Meriangasse;33;60200050
+N20;Strebersdorf, Meriangasse;34;60200943
+N20;Strebersdorf, Meriangasse;35;60200699
+N20;Strebersdorf, Meriangasse;36;60200548
+N20;Strebersdorf, Meriangasse;37;60201495
+N20;Strebersdorf, Meriangasse;38;60200102
+N20;Strebersdorf, Meriangasse;39;60201135
+N20;Strebersdorf, Meriangasse;40;60200260
 N23;Hausfeldstraße;0;60200633
 N23;Hausfeldstraße;1;60200716
 N23;Hausfeldstraße;2;60200008
