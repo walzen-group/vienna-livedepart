@@ -1,4 +1,4 @@
-#generated=2026-10-26
+#generated=2026-11-02
 line;headsign;seq;diva
 1;Bösendorferstraße/Karlsplatz;0;60200486
 1;Bösendorferstraße/Karlsplatz;1;60201497
@@ -7387,26 +7387,26 @@ BB;Oper;17;60200996
 BB;Oper;18;60201094
 BB;Oper;19;60200657
 BB;Oper;20;60200975
-BB;Vösendorf-Siebenhirten;0;60200975
-BB;Vösendorf-Siebenhirten;1;60201094
-BB;Vösendorf-Siebenhirten;2;60200996
-BB;Vösendorf-Siebenhirten;3;60200859
-BB;Vösendorf-Siebenhirten;4;60200604
-BB;Vösendorf-Siebenhirten;5;60200755
-BB;Vösendorf-Siebenhirten;6;60200689
-BB;Vösendorf-Siebenhirten;7;60200849
-BB;Vösendorf-Siebenhirten;8;60200267
-BB;Vösendorf-Siebenhirten;9;60200844
-BB;Vösendorf-Siebenhirten;10;60200368
-BB;Vösendorf-Siebenhirten;11;60200103
-BB;Vösendorf-Siebenhirten;12;60200865
-BB;Vösendorf-Siebenhirten;13;60201015
-BB;Vösendorf-Siebenhirten;14;60201160
-BB;Vösendorf-Siebenhirten;15;60201214
-BB;Vösendorf-Siebenhirten;16;60200444
-BB;Vösendorf-Siebenhirten;17;60200585
-BB;Vösendorf-Siebenhirten;18;60200918
-BB;Vösendorf-Siebenhirten;19;60200759
+BB;Vösendorf Siebenhirten;0;60200975
+BB;Vösendorf Siebenhirten;1;60201094
+BB;Vösendorf Siebenhirten;2;60200996
+BB;Vösendorf Siebenhirten;3;60200859
+BB;Vösendorf Siebenhirten;4;60200604
+BB;Vösendorf Siebenhirten;5;60200755
+BB;Vösendorf Siebenhirten;6;60200689
+BB;Vösendorf Siebenhirten;7;60200849
+BB;Vösendorf Siebenhirten;8;60200267
+BB;Vösendorf Siebenhirten;9;60200844
+BB;Vösendorf Siebenhirten;10;60200368
+BB;Vösendorf Siebenhirten;11;60200103
+BB;Vösendorf Siebenhirten;12;60200865
+BB;Vösendorf Siebenhirten;13;60201015
+BB;Vösendorf Siebenhirten;14;60201160
+BB;Vösendorf Siebenhirten;15;60201214
+BB;Vösendorf Siebenhirten;16;60200444
+BB;Vösendorf Siebenhirten;17;60200585
+BB;Vösendorf Siebenhirten;18;60200918
+BB;Vösendorf Siebenhirten;19;60200759
 BB;Wiener Neudorf;0;60200975
 BB;Wiener Neudorf;1;60201094
 BB;Wiener Neudorf;2;60200996
@@ -8298,6 +8298,39 @@ N60;Hietzing;14;60201304
 N60;Hietzing;15;60200408
 N60;Hietzing;16;60200233
 N60;Hietzing;17;60200520
+N60;Maurer Hauptplatz;0;60200975
+N60;Maurer Hauptplatz;1;60200190
+N60;Maurer Hauptplatz;2;60200246
+N60;Maurer Hauptplatz;3;60200192
+N60;Maurer Hauptplatz;4;60201184
+N60;Maurer Hauptplatz;5;60200195
+N60;Maurer Hauptplatz;6;60201182
+N60;Maurer Hauptplatz;7;60201198
+N60;Maurer Hauptplatz;8;60200245
+N60;Maurer Hauptplatz;9;60201193
+N60;Maurer Hauptplatz;10;60200975
+N60;Maurer Hauptplatz;11;60200657
+N60;Maurer Hauptplatz;12;60200670
+N60;Maurer Hauptplatz;13;60201018
+N60;Maurer Hauptplatz;14;60201659
+N60;Maurer Hauptplatz;15;60200827
+N60;Maurer Hauptplatz;16;60201725
+N60;Maurer Hauptplatz;17;60200820
+N60;Maurer Hauptplatz;18;60200863
+N60;Maurer Hauptplatz;19;60201211
+N60;Maurer Hauptplatz;20;60200520
+N60;Maurer Hauptplatz;21;60200233
+N60;Maurer Hauptplatz;22;60200408
+N60;Maurer Hauptplatz;23;60201304
+N60;Maurer Hauptplatz;24;60200589
+N60;Maurer Hauptplatz;25;60201283
+N60;Maurer Hauptplatz;26;60200539
+N60;Maurer Hauptplatz;27;60200504
+N60;Maurer Hauptplatz;28;60201100
+N60;Maurer Hauptplatz;29;60201255
+N60;Maurer Hauptplatz;30;60200343
+N60;Maurer Hauptplatz;31;60201417
+N60;Maurer Hauptplatz;32;60200854
 N60;Oper/Karlsplatz;0;60200854
 N60;Oper/Karlsplatz;1;60200343
 N60;Oper/Karlsplatz;2;60201255
@@ -8833,10 +8866,10 @@ O;Wexstraße;4;60200500
 O;Wexstraße;5;60200569
 O;Wexstraße;6;60201667
 O;Wexstraße;7;60201470
-SEV BB;Purkytgasse;0;60201160
-SEV BB;Purkytgasse;1;60200444
-SEV BB;Purkytgasse;2;60200585
-SEV BB;Purkytgasse;3;60201054
+SEV BB;Inzersdorf Lokalbahn;0;60201160
+SEV BB;Inzersdorf Lokalbahn;1;60200444
+SEV BB;Inzersdorf Lokalbahn;2;60200585
+SEV BB;Inzersdorf Lokalbahn;3;60201054
 SEV BB;Schedifkaplatz;0;60201054
 SEV BB;Schedifkaplatz;1;60200444
 SEV BB;Schedifkaplatz;2;60201160
