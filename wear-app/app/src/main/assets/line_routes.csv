@@ -1,4 +1,4 @@
-#generated=2026-11-09
+#generated=2026-11-16
 line;headsign;seq;diva
 1;Bösendorferstraße/Karlsplatz;0;60200486
 1;Bösendorferstraße/Karlsplatz;1;60201497
@@ -1002,13 +1002,21 @@ line;headsign;seq;diva
 15A;Raxstraße;12;60200295
 15A;Raxstraße;13;60200761
 15A;Raxstraße;14;60201078
-15A;Siedlung Südost;0;60201078
-15A;Siedlung Südost;1;60200761
-15A;Siedlung Südost;2;60200295
-15A;Siedlung Südost;3;60200033
-15A;Siedlung Südost;4;60200928
-15A;Siedlung Südost;5;60200331
-15A;Siedlung Südost;6;60201245
+15A;Siedlung Südost;0;60201160
+15A;Siedlung Südost;1;60201508
+15A;Siedlung Südost;2;60200264
+15A;Siedlung Südost;3;60200053
+15A;Siedlung Südost;4;60201571
+15A;Siedlung Südost;5;60200030
+15A;Siedlung Südost;6;60201312
+15A;Siedlung Südost;7;60200447
+15A;Siedlung Südost;8;60201078
+15A;Siedlung Südost;9;60200761
+15A;Siedlung Südost;10;60200295
+15A;Siedlung Südost;11;60200033
+15A;Siedlung Südost;12;60200928
+15A;Siedlung Südost;13;60200331
+15A;Siedlung Südost;14;60201245
 16A;Alaudagasse;0;60200511
 16A;Alaudagasse;1;60201852
 16A;Alaudagasse;2;60200035
@@ -6463,17 +6471,16 @@ line;headsign;seq;diva
 80A;Franzensbrücke;7;60200730
 80A;Franzensbrücke;8;60200348
 80A;Neu Marx;0;60201040
-80A;Neu Marx;1;60201427
-80A;Neu Marx;2;60200730
-80A;Neu Marx;3;60200609
-80A;Neu Marx;4;60201497
-80A;Neu Marx;5;60200359
-80A;Neu Marx;6;60200821
-80A;Neu Marx;7;60201199
-80A;Neu Marx;8;60201315
-80A;Neu Marx;9;60201321
-80A;Neu Marx;10;60201331
-80A;Neu Marx;11;60201339
+80A;Neu Marx;1;60200730
+80A;Neu Marx;2;60200609
+80A;Neu Marx;3;60201497
+80A;Neu Marx;4;60200359
+80A;Neu Marx;5;60200821
+80A;Neu Marx;6;60201199
+80A;Neu Marx;7;60201315
+80A;Neu Marx;8;60201321
+80A;Neu Marx;9;60201331
+80A;Neu Marx;10;60201339
 80A;Praterstern;0;60201199
 80A;Praterstern;1;60200821
 80A;Praterstern;2;60201206
@@ -6485,15 +6492,14 @@ line;headsign;seq;diva
 80A;Praterstern;8;60200348
 80A;Praterstern;9;60201040
 80A;Schlachthausgasse;0;60201040
-80A;Schlachthausgasse;1;60201427
-80A;Schlachthausgasse;2;60200730
-80A;Schlachthausgasse;3;60200609
-80A;Schlachthausgasse;4;60201497
-80A;Schlachthausgasse;5;60200359
-80A;Schlachthausgasse;6;60200817
-80A;Schlachthausgasse;7;60201549
-80A;Schlachthausgasse;8;60200821
-80A;Schlachthausgasse;9;60201199
+80A;Schlachthausgasse;1;60200730
+80A;Schlachthausgasse;2;60200609
+80A;Schlachthausgasse;3;60201497
+80A;Schlachthausgasse;4;60200359
+80A;Schlachthausgasse;5;60200817
+80A;Schlachthausgasse;6;60201549
+80A;Schlachthausgasse;7;60200821
+80A;Schlachthausgasse;8;60201199
 82A;Krieau;0;60201040
 82A;Krieau;1;60201747
 82A;Krieau;2;60201897
@@ -7340,17 +7346,6 @@ line;headsign;seq;diva
 9A;Meidling Hauptstraße;7;60200028
 9A;Meidling Hauptstraße;8;60201126
 9A;Meidling Hauptstraße;9;60200863
-9A;Meidling, Eichenstraße;0;60200863
-9A;Meidling, Eichenstraße;1;60201126
-9A;Meidling, Eichenstraße;2;60200028
-9A;Meidling, Eichenstraße;3;60201249
-9A;Meidling, Eichenstraße;4;60201212
-9A;Meidling, Eichenstraße;5;60201028
-9A;Meidling, Eichenstraße;6;60201546
-9A;Meidling, Eichenstraße;7;60201373
-9A;Meidling, Eichenstraße;8;60201545
-9A;Meidling, Eichenstraße;9;60200865
-9A;Meidling, Eichenstraße;10;60201262
 BB;Aßmayergasse;0;60200759
 BB;Aßmayergasse;1;60200918
 BB;Aßmayergasse;2;60200585
@@ -7463,19 +7458,18 @@ D;Absberggasse;15;60201169
 D;Absberggasse;16;60200195
 D;Absberggasse;17;60201184
 D;Absberggasse;18;60200192
-D;Absberggasse;19;60200994
-D;Absberggasse;20;60200246
-D;Absberggasse;21;60200190
-D;Absberggasse;22;60200975
-D;Absberggasse;23;60201193
-D;Absberggasse;24;60200446
-D;Absberggasse;25;60201025
-D;Absberggasse;26;60201173
-D;Absberggasse;27;60201346
-D;Absberggasse;28;60200905
-D;Absberggasse;29;60201016
-D;Absberggasse;30;60201912
-D;Absberggasse;31;60201910
+D;Absberggasse;19;60200246
+D;Absberggasse;20;60200190
+D;Absberggasse;21;60200975
+D;Absberggasse;22;60201193
+D;Absberggasse;23;60200446
+D;Absberggasse;24;60201025
+D;Absberggasse;25;60201173
+D;Absberggasse;26;60201346
+D;Absberggasse;27;60200905
+D;Absberggasse;28;60201016
+D;Absberggasse;29;60201912
+D;Absberggasse;30;60201910
 D;Augasse;0;60200116
 D;Augasse;1;60200948
 D;Augasse;2;60201231
@@ -7526,26 +7520,25 @@ D;Nußdorf, Beethovengang;8;60201193
 D;Nußdorf, Beethovengang;9;60200975
 D;Nußdorf, Beethovengang;10;60200190
 D;Nußdorf, Beethovengang;11;60200246
-D;Nußdorf, Beethovengang;12;60200994
-D;Nußdorf, Beethovengang;13;60200192
-D;Nußdorf, Beethovengang;14;60201184
-D;Nußdorf, Beethovengang;15;60200195
-D;Nußdorf, Beethovengang;16;60201169
-D;Nußdorf, Beethovengang;17;60200112
-D;Nußdorf, Beethovengang;18;60200371
-D;Nußdorf, Beethovengang;19;60200345
-D;Nußdorf, Beethovengang;20;60200034
-D;Nußdorf, Beethovengang;21;60200099
-D;Nußdorf, Beethovengang;22;60200786
-D;Nußdorf, Beethovengang;23;60201062
-D;Nußdorf, Beethovengang;24;60201068
-D;Nußdorf, Beethovengang;25;60200439
-D;Nußdorf, Beethovengang;26;60200301
-D;Nußdorf, Beethovengang;27;60200468
-D;Nußdorf, Beethovengang;28;60200428
-D;Nußdorf, Beethovengang;29;60201231
-D;Nußdorf, Beethovengang;30;60200948
-D;Nußdorf, Beethovengang;31;60200116
+D;Nußdorf, Beethovengang;12;60200192
+D;Nußdorf, Beethovengang;13;60201184
+D;Nußdorf, Beethovengang;14;60200195
+D;Nußdorf, Beethovengang;15;60201169
+D;Nußdorf, Beethovengang;16;60200112
+D;Nußdorf, Beethovengang;17;60200371
+D;Nußdorf, Beethovengang;18;60200345
+D;Nußdorf, Beethovengang;19;60200034
+D;Nußdorf, Beethovengang;20;60200099
+D;Nußdorf, Beethovengang;21;60200786
+D;Nußdorf, Beethovengang;22;60201062
+D;Nußdorf, Beethovengang;23;60201068
+D;Nußdorf, Beethovengang;24;60200439
+D;Nußdorf, Beethovengang;25;60200301
+D;Nußdorf, Beethovengang;26;60200468
+D;Nußdorf, Beethovengang;27;60200428
+D;Nußdorf, Beethovengang;28;60201231
+D;Nußdorf, Beethovengang;29;60200948
+D;Nußdorf, Beethovengang;30;60200116
 D;Schwarzenbergplatz;0;60201910
 D;Schwarzenbergplatz;1;60201912
 D;Schwarzenbergplatz;2;60201016
@@ -8613,6 +8606,16 @@ N66;Reumannplatz;28;60200760
 N66;Reumannplatz;29;60201191
 N66;Reumannplatz;30;60201573
 N66;Reumannplatz;31;60201095
+N67;Altes Landgut;0;60200581
+N67;Altes Landgut;1;60201239
+N67;Altes Landgut;2;60200971
+N67;Altes Landgut;3;60200432
+N67;Altes Landgut;4;60201342
+N67;Altes Landgut;5;60200524
+N67;Altes Landgut;6;60201481
+N67;Altes Landgut;7;60201327
+N67;Altes Landgut;8;60200014
+N67;Altes Landgut;9;60200033
 N67;Inzersdorf, Großmarkt;0;60200033
 N67;Inzersdorf, Großmarkt;1;60200014
 N67;Inzersdorf, Großmarkt;2;60201327
