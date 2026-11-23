@@ -1,5 +1,24 @@
-#generated=2026-11-16
+#generated=2026-11-23
 line;headsign;seq;diva
+1;Börse;0;60201095
+1;Börse;1;60201058
+1;Börse;2;60200914
+1;Börse;3;60201598
+1;Börse;4;60201060
+1;Börse;5;60200849
+1;Börse;6;60200689
+1;Börse;7;60200755
+1;Börse;8;60200604
+1;Börse;9;60200859
+1;Börse;10;60200996
+1;Börse;11;60201094
+1;Börse;12;60200657
+1;Börse;13;60200975
+1;Börse;14;60200190
+1;Börse;15;60200246
+1;Börse;16;60200192
+1;Börse;17;60201184
+1;Börse;18;60200195
 1;Bösendorferstraße/Karlsplatz;0;60200486
 1;Bösendorferstraße/Karlsplatz;1;60201497
 1;Bösendorferstraße/Karlsplatz;2;60201071
@@ -107,6 +126,8 @@ line;headsign;seq;diva
 1;Prater, Hauptallee;27;60201071
 1;Prater, Hauptallee;28;60201497
 1;Prater, Hauptallee;29;60200486
+1;Quellenplatz;0;60201095
+1;Quellenplatz;1;60201058
 1;Reumannplatz;0;60200486
 1;Reumannplatz;1;60201497
 1;Reumannplatz;2;60201071
@@ -135,6 +156,18 @@ line;headsign;seq;diva
 1;Reumannplatz;25;60200914
 1;Reumannplatz;26;60201058
 1;Reumannplatz;27;60201095
+1;Schottentor;0;60200486
+1;Schottentor;1;60201497
+1;Schottentor;2;60201071
+1;Schottentor;3;60200513
+1;Schottentor;4;60201063
+1;Schottentor;5;60200527
+1;Schottentor;6;60200619
+1;Schottentor;7;60201198
+1;Schottentor;8;60201145
+1;Schottentor;9;60201182
+1;Schottentor;10;60200195
+1;Schottentor;11;60201184
 1;Stefan-Fadinger-Platz;0;60200486
 1;Stefan-Fadinger-Platz;1;60201497
 1;Stefan-Fadinger-Platz;2;60201071
@@ -5604,17 +5637,17 @@ line;headsign;seq;diva
 67B;Inzersdorf, Kolpingstraße;6;60201388
 67B;Inzersdorf, Kolpingstraße;7;60200005
 67B;Inzersdorf, Kolpingstraße;8;60200724
-68A;Laaer Berg, Kurpark Nordosteingang;0;60201095
-68A;Laaer Berg, Kurpark Nordosteingang;1;60201441
-68A;Laaer Berg, Kurpark Nordosteingang;2;60200272
-68A;Laaer Berg, Kurpark Nordosteingang;3;60201787
-68A;Laaer Berg, Kurpark Nordosteingang;4;60201414
-68A;Laaer Berg, Kurpark Nordosteingang;5;60201377
-68A;Laaer Berg, Kurpark Nordosteingang;6;60201245
-68A;Laaer Berg, Kurpark Nordosteingang;7;60200721
-68A;Laaer Berg, Kurpark Nordosteingang;8;60200315
-68A;Laaer Berg, Kurpark Nordosteingang;9;60200729
-68A;Laaer Berg, Kurpark Nordosteingang;10;60201803
+68A;Laaer Berg;0;60201095
+68A;Laaer Berg;1;60201441
+68A;Laaer Berg;2;60200272
+68A;Laaer Berg;3;60201787
+68A;Laaer Berg;4;60201414
+68A;Laaer Berg;5;60201377
+68A;Laaer Berg;6;60201245
+68A;Laaer Berg;7;60200721
+68A;Laaer Berg;8;60200315
+68A;Laaer Berg;9;60200729
+68A;Laaer Berg;10;60201803
 68A;Reumannplatz;0;60201803
 68A;Reumannplatz;1;60201804
 68A;Reumannplatz;2;60201805
@@ -7914,24 +7947,25 @@ N35;Nußdorfer Straße;14;60200376
 N35;Nußdorfer Straße;15;60200474
 N35;Nußdorfer Straße;16;60200405
 N35;Nußdorfer Straße;17;60200950
-N35;Salmannsdorf;0;60200950
-N35;Salmannsdorf;1;60201462
-N35;Salmannsdorf;2;60201509
-N35;Salmannsdorf;3;60200474
-N35;Salmannsdorf;4;60200376
-N35;Salmannsdorf;5;60200723
-N35;Salmannsdorf;6;60200336
-N35;Salmannsdorf;7;60201108
-N35;Salmannsdorf;8;60200714
-N35;Salmannsdorf;9;60200443
-N35;Salmannsdorf;10;60200404
-N35;Salmannsdorf;11;60200648
-N35;Salmannsdorf;12;60201336
-N35;Salmannsdorf;13;60200687
-N35;Salmannsdorf;14;60200010
-N35;Salmannsdorf;15;60200931
-N35;Salmannsdorf;16;60200206
-N35;Salmannsdorf;17;60201142
+N35;Salmannsdorf;0;60201062
+N35;Salmannsdorf;1;60200950
+N35;Salmannsdorf;2;60201462
+N35;Salmannsdorf;3;60201509
+N35;Salmannsdorf;4;60200474
+N35;Salmannsdorf;5;60200376
+N35;Salmannsdorf;6;60200723
+N35;Salmannsdorf;7;60200336
+N35;Salmannsdorf;8;60201108
+N35;Salmannsdorf;9;60200714
+N35;Salmannsdorf;10;60200443
+N35;Salmannsdorf;11;60200404
+N35;Salmannsdorf;12;60200648
+N35;Salmannsdorf;13;60201336
+N35;Salmannsdorf;14;60200687
+N35;Salmannsdorf;15;60200010
+N35;Salmannsdorf;16;60200931
+N35;Salmannsdorf;17;60200206
+N35;Salmannsdorf;18;60201142
 N36;Nußdorf;0;60200950
 N36;Nußdorf;1;60200786
 N36;Nußdorf;2;60201062
